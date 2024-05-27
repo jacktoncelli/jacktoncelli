@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jtoncelli
+- 👋 Hi, I’m @jacktoncelli
 - 👀 I’m interested in learning about machine learning
 - 🌱 I’m currently learning how to make AI in python through HarvardX on edX.org
 - 💞️ I’m looking to collaborate on any interesting challenges, especially puzzles
