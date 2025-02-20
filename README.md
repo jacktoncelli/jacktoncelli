@@ -9,16 +9,16 @@ I'm a Computer Science major with a concentration in Software at Northeastern Un
 - **Operating Systems**: Linux, Windows, macOS
 
 ### 🌱 Currently Learning
-- Algo (help)
+- Ruby on Rails
 - Frontend development in React
-- API development with NodeJS
+- Go
 
 ### 🎯 Interests
 Talk to me about...
 - Steinbeck books
 - Cooking
 - All things Italy
-- Wes Anderson films
+- Wes Anderson or Quentin Tarantino films
 <hr>
 
 “The solutions all are simple—after you have arrived at them. But they're simple only when you know already what they are.” -Robert M. Pirsig
