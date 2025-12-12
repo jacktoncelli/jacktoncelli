@@ -8,11 +8,6 @@ I'm a Computer Science major with a concentration in Software at Northeastern Un
 - **Tools and Software**: Git, GitHub, Visual Studio Code, Jenkins, Bitbucket, Jira, WebStorm, Teams, Confluence
 - **Operating Systems**: Linux, Windows, macOS
 
-### 🌱 Currently Learning
-- Ruby on Rails
-- Frontend development in React
-- Go
-
 ### 🎯 Interests
 Talk to me about...
 - Steinbeck books
